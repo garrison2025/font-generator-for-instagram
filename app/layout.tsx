@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   category: "Technology",
   classification: "Font Generator Tool",
   other: {
-    "google-site-verification": "your-google-verification-code-here",
+    "google-site-verification": "cNt8Bq1JJbtny1DbRwumv3FoxQHvY4XStDwOkr8pAK8",
   },
 }
 
