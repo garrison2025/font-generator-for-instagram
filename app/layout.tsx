@@ -7,9 +7,9 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Font per Instagram Gratuito | FontInsta.org - Generatore di Caratteri Speciali",
+  title: "Font per Instagram - Generatore Gratuito",
   description:
-    "✨ Generatore di font per Instagram GRATUITO con 70+ stili unici. Crea font per Instagram eleganti, moderni e divertenti. Copia e incolla facilmente - FontInsta.org",
+    "Genera, copia e incolla font speciali per Instagram. Semplice, veloce e gratuito.",
   keywords:
     "font per instagram, font instagram, generatore font instagram, caratteri speciali instagram, font per instagram gratis, scritte instagram, font instagram copia incolla, caratteri instagram, font aesthetic instagram, generatore caratteri instagram, font per bio instagram, font instagram italiano",
   generator: "FontInsta.org",
